@@ -1,0 +1,11 @@
+d:\users\myself\documents\visual studio 2012\Projects\TinyTracker\TinyTracker\bin\Debug\TinyTracker.exe.config
+d:\users\myself\documents\visual studio 2012\Projects\TinyTracker\TinyTracker\bin\Debug\TinyTracker.exe
+d:\users\myself\documents\visual studio 2012\Projects\TinyTracker\TinyTracker\bin\Debug\TinyTracker.pdb
+d:\users\myself\documents\visual studio 2012\Projects\TinyTracker\TinyTracker\obj\Debug\TinyTracker.exe
+d:\users\myself\documents\visual studio 2012\Projects\TinyTracker\TinyTracker\obj\Debug\TinyTracker.pdb
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Debug\TinyTracker.exe.config
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Debug\TinyTracker.exe
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Debug\TinyTracker.pdb
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Debug\TinyTracker.exe
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Debug\TinyTracker.pdb
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Debug\TinyTracker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Release\TinyTracker.exe.config
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Release\TinyTracker.exe
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\bin\Release\TinyTracker.pdb
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Release\TinyTracker.csprojResolveAssemblyReference.cache
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Release\TinyTracker.exe
+C:\Users\Harry_\Desktop\Blizz Downloader\TinyTracker\obj\Release\TinyTracker.pdb

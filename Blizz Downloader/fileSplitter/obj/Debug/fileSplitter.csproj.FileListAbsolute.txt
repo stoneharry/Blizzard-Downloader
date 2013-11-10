@@ -1,0 +1,5 @@
+d:\Users\MySelf\Documents\Visual Studio 2012\Projects\TinyTracker\fileSplitter\bin\Debug\fileSplitter.exe.config
+d:\Users\MySelf\Documents\Visual Studio 2012\Projects\TinyTracker\fileSplitter\bin\Debug\fileSplitter.exe
+d:\Users\MySelf\Documents\Visual Studio 2012\Projects\TinyTracker\fileSplitter\bin\Debug\fileSplitter.pdb
+d:\Users\MySelf\Documents\Visual Studio 2012\Projects\TinyTracker\fileSplitter\obj\Debug\fileSplitter.exe
+d:\Users\MySelf\Documents\Visual Studio 2012\Projects\TinyTracker\fileSplitter\obj\Debug\fileSplitter.pdb

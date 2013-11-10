@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTracker", "TinyTracker\TinyTracker.csproj", "{6CD59DD4-462E-49F3-83C7-61AB95AA9D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileSplitter", "fileSplitter\fileSplitter.csproj", "{B2071B1A-3E40-457D-9095-52B6EAD2949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD59DD4-462E-49F3-83C7-61AB95AA9D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD59DD4-462E-49F3-83C7-61AB95AA9D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD59DD4-462E-49F3-83C7-61AB95AA9D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD59DD4-462E-49F3-83C7-61AB95AA9D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2071B1A-3E40-457D-9095-52B6EAD2949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2071B1A-3E40-457D-9095-52B6EAD2949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2071B1A-3E40-457D-9095-52B6EAD2949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2071B1A-3E40-457D-9095-52B6EAD2949D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
