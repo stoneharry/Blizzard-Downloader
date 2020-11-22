@@ -1,3 +1,0 @@
-﻿Custom Installer Title
-
-This file is located in the res/data folder and is called patch.txt
